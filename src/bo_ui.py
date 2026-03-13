@@ -1,3 +1,8 @@
+"""
+(c) 2026 Shensi-ST / 天算AI实验室. All Rights Reserved.
+Project: 驳 · 万象智能体 (Borg Universal Agent)
+Identity: Shensist Matrix Core Agent
+"""
 import tkinter as tk
 from PIL import Image, ImageTk
 import os

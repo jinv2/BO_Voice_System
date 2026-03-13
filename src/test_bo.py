@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+(c) 2026 Shensi-ST / 天算AI实验室. All Rights Reserved.
+Project: 驳 · 万象智能体 (Borg Universal Agent)
+Identity: Shensist Matrix Core Agent
+"""
+"""
 BO Voice Test - 测试完善后的系统
 验证ClipboardHandler和listen_loop功能
 """

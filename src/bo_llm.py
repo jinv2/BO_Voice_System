@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+(c) 2026 Shensi-ST / 天算AI实验室. All Rights Reserved.
+Project: 驳 · 万象智能体 (Borg Universal Agent)
+Identity: Shensist Matrix Core Agent
+"""
+"""
 BO LLM Commander - 本地LLM命令解析器
 将语音文本转换为结构化JSON命令
 """

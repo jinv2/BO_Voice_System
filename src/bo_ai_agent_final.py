@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+(c) 2026 Shensi-ST / 天算AI实验室. All Rights Reserved.
+Project: 驳 · 万象智能体 (Borg Universal Agent)
+Identity: Shensist Matrix Core Agent
+"""
+"""
 BO AI Agent Final - 驳智能体核心
 实时意识流记录和动态看板管理
 """

@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+(c) 2026 Shensi-ST / 天算AI实验室. All Rights Reserved.
+Project: 驳 · 万象智能体 (Borg Universal Agent)
+Identity: Shensist Matrix Core Agent
+"""
+"""
 BO Voice System Core - 驳语音智能体核心架构
 状态机驱动的语音控制系统
 """
