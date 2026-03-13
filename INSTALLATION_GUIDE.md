@@ -86,4 +86,4 @@ python build_cross_platform.py
 - **控制失效**：检查第3部分的“辅助功能”权限或 PowerShell 执行策略。
 
 ---
-**技术支持**：如遇疑难杂症，可直接在交互窗口询问 Agent，它将为您提供环境自检指令。
+© 2026 [神思庭 (Shensi-ST) / 天算AI实验室](https://shensist.top/) | 执掌乾坤 · 文以演物
