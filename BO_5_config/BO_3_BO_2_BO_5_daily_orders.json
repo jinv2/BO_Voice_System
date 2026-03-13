@@ -1,0 +1,49 @@
+{
+  "project": "BO_Voice_System",
+  "version": "1.0.0",
+  "skills_matrix": {
+    "high_freq": [
+      "copy",
+      "paste",
+      "rename",
+      "volume_up",
+      "volume_down"
+    ],
+    "global_ai": [
+      "search",
+      "ocr",
+      "summary",
+      "screenshot"
+    ],
+    "office_intel": [
+      "organize",
+      "batch_rename",
+      "clean_temp"
+    ]
+  },
+  "active_orders": [
+    {
+      "intent": "organize",
+      "cmd": "bo organize",
+      "status": "success",
+      "callback": "notify-send '\u795e\u601d\u77e9\u9635\uff1a\u76ee\u5f55\u71b5\u503c\u5df2\u91cd\u7f6e'",
+      "last_run": "2026-03-13T05:47:25.326129",
+      "last_result": {
+        "message": "Files organized",
+        "success": true
+      }
+    }
+  ],
+  "consciousness_summary": {
+    "last_skill": "organize",
+    "last_execution": "2026-03-13T05:47:25.326129",
+    "total_executions": 4,
+    "recent_success_rate": 75.0,
+    "active_skills": [
+      "screen_lock",
+      "organize",
+      "volume_control"
+    ]
+  },
+  "last_updated": "2026-03-13T05:47:25.326129"
+}
